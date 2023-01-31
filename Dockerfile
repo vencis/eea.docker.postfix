@@ -1,4 +1,4 @@
-FROM oraclelinux:7-slim
+FROM oraclelinux:7
 
 EXPOSE 25
 
